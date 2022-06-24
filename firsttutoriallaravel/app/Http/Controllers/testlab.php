@@ -8,6 +8,6 @@ class testlab extends Controller
 {
     public function index($id)
     {
-        return "this is m lab";
+        return "this is m lab";tui la tim
     }
 }
