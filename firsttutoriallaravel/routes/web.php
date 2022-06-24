@@ -16,5 +16,5 @@ use Illuminate\Support\Facades\Route;
 
 route::get('/testlab', [testlab::class, 'index']);
 
-Route::get('/', function bbbb  nnn ');
+Route::get('/', function()');tim paderborn
 });
