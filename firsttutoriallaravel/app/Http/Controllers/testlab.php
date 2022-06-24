@@ -8,6 +8,6 @@ class testlab extends Controller
 {
     public function index()
     {
-        return "this is m lab";
+        return "this abc is m lab";
     }
 }
