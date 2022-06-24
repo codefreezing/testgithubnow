@@ -16,6 +16,5 @@ use Illuminate\Support\Facades\Route;
 
 route::get('/testlab', [testlab::class, 'index']);
 
-Route::get('/', function () {
-    return view('welcome   nnn ');
+Route::get('/', function bbbb  nnn ');
 });
